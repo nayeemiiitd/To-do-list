@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">To-do-list</string>
+    <string name="no_notes_right_now">No notes right now</string>
+    <string name="title">Title:  </string>
+    <string name="detail">Detail:</string>
+    <string name="enter_title">Enter title</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_content">TITLE</string>
+    <string name="fragment_detail">DETAIL</string>
+</resources>
